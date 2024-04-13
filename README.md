@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @javiervisbal
-- 👀 I’m interested in ML
-- 🌱 I’m currently learning ML/IA
-- 💞️ I’m looking to collaborate on beginers ML projects
+- 👀 I’m interested in Full Stack Mobile Apps
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on beginers Data Science projects
 - 📫 How to reach me @javiervisbal
 
 <!---
